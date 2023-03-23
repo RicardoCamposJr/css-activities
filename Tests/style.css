@@ -1,3 +1,8 @@
-a[href="/caminho"]{
-    color: violet;
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+h1 {
+    font-family: 'Delicious Handrawn', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 5;
 }
